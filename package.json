@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Alireza Zohoor Parvaz Portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/Zohoorparvaz/Portfoli-sample-1"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/Zohoorparvaz/Portfoli-sample-1/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/Zohoorparvaz/Portfoli-sample-1#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3",
