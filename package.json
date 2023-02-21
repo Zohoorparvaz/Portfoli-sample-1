@@ -1,9 +1,12 @@
 {
-  "name": "Alireza's Portfolio",
+  "name": "Alireza-Zohoorparvaz",
   "version": "1.0.1",
   "private": "false",
   "description": "Alireza Zohoor Parvaz Portfolio",
   "source": "src/index.html",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
