@@ -1,7 +1,7 @@
 {
-  "name": "simplefolio",
+  "name": "Alireza's Portfolio",
   "version": "1.0.1",
-  "private": "true",
+  "private": "false",
   "description": "Alireza Zohoor Parvaz Portfolio",
   "source": "src/index.html",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/Zohoorparvaz/Portfoli-sample-1"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Alireza Zohoor Parvaz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zohoorparvaz/Portfoli-sample-1/issues"
