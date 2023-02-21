@@ -16,7 +16,7 @@
   z-index: -1;
   // position: sticky;
 
-  background: url("/src/assets/background.jpeg");
+  background: url("/src/assets/background.jpg");
   background-position: center;
   background-size: cover;
 
@@ -46,9 +46,6 @@
     @include respond(phone-xs) {
       font-size: 2.5rem;
     }
-  }
-
-  .im-a {
   }
 
   .hero-cta {
